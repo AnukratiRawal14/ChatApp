@@ -1,4 +1,4 @@
-# KotlinChatApp
+# ChatApp
 
 ### This is a ChatApp which is built using kotlin language.
 #### This app contains following features:
