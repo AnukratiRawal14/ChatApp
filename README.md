@@ -1,6 +1,6 @@
 # ChatApp
 
-### This is a ChatApp which is built using kotlin language.
+### This ```ChatApp``` is built using kotlin language.
 #### This app contains following features:
 - User and registration page.
 - User can upload profile and cover image.
